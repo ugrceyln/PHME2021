@@ -1,0 +1,16 @@
+{
+  "id": "zakkum42/phme21-model-lda",
+  "title": "PHME21_Model_LDA",
+  "code_file": "phme21-model-lda.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "zakkum42/phme21-imputed-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

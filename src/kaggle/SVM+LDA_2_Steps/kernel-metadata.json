@@ -1,0 +1,15 @@
+{
+  "id": "zakkum42/svm2stepfusion",
+  "title": "SVM2Stepfusion",
+  "code_file": "svm.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "zakkum42/phme21-imputed-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

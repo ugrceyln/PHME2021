@@ -1,0 +1,17 @@
+*.pyc
+*.csv
+*.pickle
+*.pkl
+*.npy
+.ipynb_checkpoints
+debug.log
+*.out
+*.tsv
+*.xlsx
+.vscode
+.settings
+.project
+.pydevproject
+*.7z
+*.h5
+*.tgz

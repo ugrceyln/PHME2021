@@ -1,0 +1,15 @@
+{
+  "id": "zakkum42/gp2stepfusion",
+  "title": "GP2Stepfusion",
+  "code_file": "gp.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "zakkum42/phme21-imputed-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zakkum42/lda2stepfusion",
+  "title": "LDA2Stepfusion",
+  "code_file": "lda.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "zakkum42/phme21-imputed-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
